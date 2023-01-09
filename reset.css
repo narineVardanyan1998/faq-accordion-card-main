@@ -1,0 +1,22 @@
+/*custom additions below:*/
+
+:root, *{
+  box-sizing: border-box;
+}
+
+:root{
+  font-size:62.5%;
+  
+}
+
+
+a, a:hover, a:focus, a:active{
+  text-decoration:none;
+  color:inherit;
+}
+button{
+  border:none;
+  outline:none;
+  background:none;
+  cursor:pointer
+}
